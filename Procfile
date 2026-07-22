@@ -1,1 +1,1 @@
-worker: python3 sexy_FIXED_SHOPSY.py
+worker: python3 sc.py
