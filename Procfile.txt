@@ -1,1 +1,0 @@
-worker: python3 sy1.py
