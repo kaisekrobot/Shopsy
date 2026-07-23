@@ -57,6 +57,12 @@ REQUIRED_CHANNELS = [
         "url": "https://t.me/blankkdealz",
         "button": "📢 Join Blankk Dealz",
     },
+    {
+    "username": "vishalxupdate",
+    "title": "𝐕𝐢𝐬𝐡𝐚𝐥 X 𝐔𝐩𝐝𝐚𝐭𝐞",
+    "url": "https://t.me/vishalxupdate",
+    "button": "📢 Join 𝐕𝐢𝐬𝐡𝐚𝐥 X 𝐔𝐩𝐝𝐚𝐭𝐞",
+},
 ]
 
 OTP_PROXY_HOST = os.environ.get("OTP_PROXY_HOST", "")
