@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 BASE_URL = "https://slayyourplaypromo.in/api/users"
 MASTER_KEY = os.environ.get("SLAYPROMO_MASTER_KEY", "1709065004")
 TELEGRAM_BOT_TOKEN="8776958017:AAFF5p5wpb_qP9K9arnYfMGOgx4oYkSMXoY"
-ADMIN_IDS = [8739344756, 8183677305, 8101876637,6244053739]
+ADMIN_IDS = [8739344756, 8183677305, 8101876637,1446058092]
 ADMIN_ID = ADMIN_IDS[0]  # back-compat
 
 # 150 workers per user, designed for up to 50 simultaneous users
@@ -64,10 +64,10 @@ REQUIRED_CHANNELS = [
         "button": "📢 Join SPIDEY x Updates",
     },
     {
-    "username": "MAyankXLoots(S)⚡🔥",
-    "title": "MAyankXLoots",
-    "url": "https://t.me/+zjhOjVGGQQUyYWE1",
-    "button": "📢 Join MAyankXLoots⚡",
+    "username": "blankkdealz",
+    "title": "Blankk Dealz",
+    "url": "https://t.me/blankkdealz",
+    "button": "📢 Join Blankk Dealz",
 },
 ]
 
